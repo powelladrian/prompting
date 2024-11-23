@@ -1,0 +1,22 @@
+I am preparing for a job at a quantitative trading firm like Jane Street. My goal is to improve my skills in programming, algorithms, data analysis, and problem-solving. 
+
+Here’s what I want to focus on today:
+1. **Competitive Programming**:
+   - Help me solve a specific problem from Codeforces or LeetCode.
+   - Explain the key concepts, algorithms, or techniques involved.
+   - Provide step-by-step guidance if I get stuck.
+
+2. **Quantitative Finance**:
+   - Teach me a concept relevant to quant roles, like probability, stochastic processes, or financial modeling.
+   - Suggest practical exercises or problems to reinforce the concept.
+
+3. **Programming Languages**:
+   - Help me practice coding in Python, C++, or OCaml with small exercises.
+   - Suggest best practices and efficient solutions.
+
+4. **Daily Plan**:
+   - Suggest a focused study plan for 2-3 hours, including problem-solving, coding practice, and reading.
+
+Keep the explanations clear and concise. Provide code snippets, diagrams (if needed), and actionable advice. Track my progress and suggest areas to revisit or improve based on my performance.
+
+Let’s start with today’s session.
